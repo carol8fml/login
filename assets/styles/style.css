@@ -2,7 +2,7 @@ body {
     margin-top: 100px;
     padding: 0 15px;
     font-family: 'Rajdhani', sans-serif;
-    background-image: url("planetas.jpg");
+    background-image: url("../img/planetas.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -11,12 +11,10 @@ body {
 }
 
 .container-total {
-    /*area*/
     margin: 0 auto;
     max-width: 300px;
     width: 100%;
     height: 450px;
-    /*cor*/
     border-radius: 5%;
     background-color: rgb(29, 31, 59);
     z-index: 1;
@@ -81,8 +79,6 @@ form button {
     color: white;
 }
 
-
-/**/
 
 .options {
     display: flex;
