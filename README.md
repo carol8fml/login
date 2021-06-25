@@ -1,1 +1,1 @@
-![Screenshot](README.png)
+![Screenshot](assets/img/README.png)
